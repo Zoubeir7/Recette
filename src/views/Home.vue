@@ -22,7 +22,7 @@
         </div>
         <!-- Colonne 3 -->
         <div class="col-md-4 mb-4">
-          <img src="../assets/h1.jpg" class="img-fluid rounded" alt="Image 3">
+          <img src="../assets/rr.jpg" class="img-fluid rounded" alt="Image 3">
         </div>
       </div>
     </div>
