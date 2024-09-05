@@ -51,7 +51,7 @@ CuisineZu est une application web développée avec Vue.js, permettant aux utili
 1. Pour exécuter le conteneur Docker :
 
    ```bash
-   docker run -d -p 3000:80 recette-app
+   docker run -d -p 81:81 recette
    ```
 
 ## Auteur
