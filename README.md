@@ -28,8 +28,7 @@ CuisineZu est une application web développée avec Vue.js, permettant aux utili
 1. Clonez le repository GitHub :
 
    ```bash
-https://github.com/Zoubeir7/Recette.git   
-
+   https://github.com/Zoubeir7/Recette.git   
    ```
 
 2. Accédez au répertoire du projet :
